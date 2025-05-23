@@ -14,7 +14,7 @@
 - ![MS Excel](https://img.shields.io/badge/MS_Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
 
   
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kuhu01&hide_progress=true)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kuhu01&hide=javascript,css,html&langs_count=5&hide_progress=true)
 ## 🌱 Currently working on
 🚦 Traffic Monitoring System using YOLOv8 and OpenCV  
 📊 Data Analysis Projects  
