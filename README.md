@@ -13,7 +13,7 @@
 - ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 - ![MS Excel](https://img.shields.io/badge/MS_Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
 
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 ## 🌱 Currently working on
 🚦 Traffic Monitoring System using YOLOv8 and OpenCV  
 📊 Data Analysis Projects  
