@@ -2,9 +2,9 @@
 
 ## ✨ About Me  
 - Passionate about Data, AI & Analysis
-- I love talking tech, tea, and tropes
-- Introvert vibes with extrovert GitHub activity
-- B.Tech graduate, currently navigating the corporate world
+- I enjoy tech, tea, and a good story
+- B.Tech graduate, now part of the corporate world
+- Learning something new, one day at a time
 
 ## 🔧 Tech Stack
 
