@@ -1,10 +1,10 @@
 # 🌸 Hey there, I'm Kuheli! 💻
 
-## ✨ About Me
-- Final-year B.Tech student  
-- Passionate about Data, AI & Analysis 
-- I love talking tech, tea, and tropes  
-- Introvert vibes with extrovert GitHub activity  
+## ✨ About Me  
+- Passionate about Data, AI & Analysis
+- I love talking tech, tea, and tropes
+- Introvert vibes with extrovert GitHub activity
+- B.Tech graduate, currently navigating the corporate world
 
 ## 🔧 Tech Stack
 
@@ -15,7 +15,6 @@
 
 
 ## 🌱 Currently working on
-🚦 Traffic Monitoring System using YOLOv8 and OpenCV  
 📊 Data Analysis Projects  
 🎬 Aesthetic YouTube scripts
 
